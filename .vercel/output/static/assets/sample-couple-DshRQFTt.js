@@ -1,0 +1,1 @@
+var e=`/assets/sample-couple-D2LzwgKa.jpg`;export{e as t};
